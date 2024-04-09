@@ -4,8 +4,11 @@
         <img width="50%" src="https://github.com/StudentLink/.github/blob/main/profile/logo.png" alt="StudentLink logo">
     </a>
 </p>
+<br/>
 
 # Student Link - Le réseau social pour étudiants ! 🚀
+
+Bienvenue sur le répository de **Student Link** !
 
 <!--
 
