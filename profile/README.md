@@ -1,3 +1,10 @@
+<br/>
+<p align="center">
+    <a href="https://studentlink.fr" target="_blank">
+        <img width="50%" src="logo-white.png" alt="StudentLink logo">
+    </a>
+</p>
+
 # Student Link - Le réseau social pour étudiants ! 🚀
 
 <!--
