@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
     <a href="https://studentlink.fr" target="_blank">
-        <img width="50%" src="logo.png" alt="StudentLink logo">
+        <img width="50%" src="https://github.com/StudentLink/.github/blob/main/profile/logo.png" alt="StudentLink logo">
     </a>
 </p>
 
