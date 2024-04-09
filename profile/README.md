@@ -1,4 +1,4 @@
-## Hi there 👋
+# Student Link - Le réseau social pour étudiants ! 🚀
 
 <!--
 
